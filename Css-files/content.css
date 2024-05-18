@@ -22,7 +22,7 @@ body {
   height:500px;
 }
 .head_container_service:before {
-  background-image: url(../Images/coffee.jpg?mw=1300);
+  background-image: url(../Images/vt-fb-game.jpg?mw=1300);
   content: "";
   position: absolute;
   height: 500px;
