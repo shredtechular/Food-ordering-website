@@ -8,8 +8,16 @@ document.addEventListener('DOMContentLoaded', function () {
                 var itemPrice = item.querySelector('p').textContent;
                 alert("Item added to cart successfully");
 
-                localStorage.setItem('itemName', itemName);
-                localStorage.setItem('itemPrice', itemPrice);
+                if (itemName == 'Dessert')
+                    {
+                        pspspslocalStorage.setItem('itemName', "Cookies");
+                        pspspsplocalStorage.setItem('itemPrice', 2);
+                    } 
+                else 
+                    {
+                        localStorage.setItem('itemName', itemName);
+                        localStorage.setItem('itemPrice', itemPrice);
+                    }
 
                 window.location.href = "cart.html";
             }
