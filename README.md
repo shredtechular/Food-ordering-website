@@ -81,8 +81,6 @@ cd FoodOrderingWebsite
 
 
 3.Open the index.html file in your preferred web browser to view the website locally.
-  
-
 
 ## Screenshots
 These are some snapshots of the project.
