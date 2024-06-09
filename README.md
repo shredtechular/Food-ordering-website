@@ -92,8 +92,6 @@ These are some snapshots of the project.
 ![Service](Images/service.png)
 
 
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
