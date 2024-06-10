@@ -79,7 +79,6 @@ git clone https://github.com/khushi-joshi-05/FoodOrderingWebsite.git
 cd FoodOrderingWebsite
 ```
 
-
 3.Open the index.html file in your preferred web browser to view the website locally.
 
 ## Screenshots
@@ -95,9 +94,6 @@ These are some snapshots of the project.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-
 
 
 
